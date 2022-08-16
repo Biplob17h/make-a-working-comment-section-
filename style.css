@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    padding: 5%;
+    margin-left: 5%;
+    margin-right: 10%;
+}
+h1{
+    font-size: 50px;
+    color: tomato;
+}
+p{
+    text-align: justify;
+}
+button{
+   border: none;
+   margin-top: 2%;
+   color: white;
+   background-color: red;
+   padding: 10px;
+   font-weight: bolder;
+   border-radius: 5px;
+
+}
+#texta{
+    color: rgb(56, 20, 20);
+    font-weight: bold;
+}
